@@ -1,0 +1,57 @@
+Image melon1.JPG 
+Eccentricity: 0.638572 
+Ellipse 
+MajorAxisLength: 294.871029 pixels and 20.740182 cm 
+MinorAxisLength: 226.921577 pixels and 15.960859 cm 
+ 
+Image melon2.JPG 
+Eccentricity: 0.797395 
+Ellipse 
+MajorAxisLength: 445.468218 pixels and 31.920150 cm 
+MinorAxisLength: 268.821514 pixels and 19.262481 cm 
+ 
+Image melon3.JPG 
+Eccentricity: 0.741361 
+Ellipse 
+MajorAxisLength: 397.255434 pixels and 27.628710 cm 
+MinorAxisLength: 266.600485 pixels and 18.541792 cm 
+ 
+Image melon4.JPG 
+Eccentricity: 0.763262 
+Ellipse 
+MajorAxisLength: 367.831839 pixels and 25.628527 cm 
+MinorAxisLength: 237.652234 pixels and 16.558318 cm 
+ 
+Image melon5.JPG 
+Eccentricity: 0.295344 
+Circle 
+Diameter: 217.543100 pixels and 15.214693 cm 
+ 
+Image melon6.JPG 
+Eccentricity: 0.315745 
+Circle 
+Diameter: 185.874862 pixels and 12.878624 cm 
+ 
+Image melon7.JPG 
+Melon 1 
+Eccentricity: 0.278449 
+Circle 
+Diameter: 125.118003 pixels and 8.823970 cm 
+ 
+Melon 2 
+Eccentricity: 0.464201 
+Ellipse 
+MajorAxisLength: 111.396714 pixels and 7.856273 cm 
+MinorAxisLength: 98.667408 pixels and 6.958537 cm 
+ 
+Image melon8.JPG 
+Melon 1 
+Eccentricity: 0.328478 
+Circle 
+Diameter: 174.367919 pixels and 12.334140 cm 
+ 
+Melon 2 
+Eccentricity: 0.180179 
+Circle 
+Diameter: 146.489436 pixels and 10.362119 cm 
+ 
